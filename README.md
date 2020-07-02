@@ -1,4 +1,4 @@
-# Bitcoin Runner 2D Platformer Game in Unity
+# Bitcoin Runner 2D Platformer Game
 
 Bitcoin Runner is a 2D Platformer Game which is developed with Unity game engine. I started to prototype in 2018 with Unity 2017 version. Then I have started to develop this project from my Hezarfen project baseline, and added new power-ups, changed player controller to run in the street and jump over the cars, and upgraded its UI system to Unity's new UI system. I have added a simple Daily Word game mechanic which allows you to collect letters of published daily words. Players can collect each letter to complete the word, and list the completed words from the menu. Also, I have developed some scripts to implement GoogleMobileAds, GooglePlayGames, and Firebase Analytics APIs.
 
